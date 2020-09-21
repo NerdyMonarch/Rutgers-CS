@@ -1,3 +1,5 @@
+package Homework_0;
+
 /**
  * Question:
  * Write a program that creates a histogram that allows you to visually

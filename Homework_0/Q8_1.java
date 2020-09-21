@@ -1,3 +1,5 @@
+package Homework_0;
+
 /**
  * Question:
  * Write a program that reads an arbitrary number of integers that are in 

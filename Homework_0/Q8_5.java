@@ -1,3 +1,5 @@
+package Homework_0;
+
 /**
  * Question: Write a program that computes and prints the mean and standard
  * deviation of a list of integers x_1 to x_n. Assume that there will be no more

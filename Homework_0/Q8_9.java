@@ -1,3 +1,5 @@
+package Homework_0;
+
 /**
  * Write a program that reads a sequence of up to 25 pairs of names and postal
  * (ZIP) codes for individuals. Store the data in an object designed to store a

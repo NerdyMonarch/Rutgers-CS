@@ -1,3 +1,5 @@
+package Homework_0;
+
 public class Card {
     // Properties of the card
     private int value;
