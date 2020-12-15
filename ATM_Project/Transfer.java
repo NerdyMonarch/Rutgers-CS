@@ -90,6 +90,7 @@ public class Transfer extends ScreenScene {
         }
         try {
             double d = Double.parseDouble(strNum);
+            System.out.println(d);
         } catch (NumberFormatException nfe) {
             return false;
         }

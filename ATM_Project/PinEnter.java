@@ -72,6 +72,7 @@ public class PinEnter extends ScreenScene {
         }
         try {
             int d = Integer.parseInt(strNum);
+            System.out.println(d);
         } catch (NumberFormatException nfe) {
             return false;
         }

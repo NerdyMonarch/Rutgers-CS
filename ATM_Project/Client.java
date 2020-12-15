@@ -332,6 +332,10 @@ public class Client extends Application implements Runnable {
         changeScreenState(pinEnter);
     }
 
+    public String getUserInput() {
+        return userInput;
+    }
+
     public String getSelected() {
         return cardSelector.getSelected();
     }
